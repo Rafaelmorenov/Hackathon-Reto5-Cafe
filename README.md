@@ -55,10 +55,10 @@ src/main/java/com/dosw/reto5/
 
 ## Funcionalidades
 
-✅ El usuario puede elegir X toppings por café  
-✅ Muestra la descripción final y precio total después del pago  
-✅ Usa Streams para calcular el total general de varios cafés  
-✅ Permite agregar nuevos toppings sin modificar la base  
+El usuario puede elegir X toppings por café  
+Muestra la descripción final y precio total después del pago  
+Usa Streams para calcular el total general de varios cafés  
+Permite agregar nuevos toppings sin modificar la base  
 
 ## Uso de Streams
 
