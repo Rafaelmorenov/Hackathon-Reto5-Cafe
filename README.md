@@ -1,3 +1,6 @@
+#Integrantes
+- Rafael Moreno
+- Cristian Gonzalez
 # Cafetería Creativa - Sistema de Personalización de Café
 
 ## Descripción del Problema
